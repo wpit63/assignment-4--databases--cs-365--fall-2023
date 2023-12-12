@@ -1,0 +1,9 @@
+*
+
+!README.md
+!.gitignore
+!.editorconfig
+!commands.sql
+!e-r-diagram.jpg
+
+!mysql/
