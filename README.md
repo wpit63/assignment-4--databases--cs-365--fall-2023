@@ -18,7 +18,7 @@ The E/R diagram above shows a version of the music database we’ve been using a
 
 1. Modify the current instance of the MySQL code in `mysql` to match the E/R diagram, sans relations.
 2. Implement the relations `Compiles`, `Contains`, and `WasPlayedAt`.
-3. Complete the `Played` entity by matching the first entry to Dawn of Midi’s _Dysnomia_, the next one to Interpol’s _Turn on the Bright Lights_, the third one to The Chrome Cranks’ _Dead Cool_, the fourth one to The Melvins’ _Houdini_, the fifth and sixth ones to Mogwai’s _Come on Die Young_ and _Every Country’s Sun_, respectively, and the last one to Warpaint’s _Heads Up_.
+3. Complete the `Played` entity by matching the first entry to the first track on Dawn of Midi’s _Dysnomia_, the next one to the first track on Interpol’s _Turn on the Bright Lights_, the third one to the first track on The Chrome Cranks’ _Dead Cool_, the fourth one to the first track on The Melvins’ _Houdini_, the fifth and sixth ones to the first track on Mogwai’s _Come on Die Young_ and _Every Country’s Sun_, respectively, and the last one to the first track on Warpaint’s _Heads Up_.
 4. Update each relation and/or entity with an `INDEX` on an attribute that you find is most logical.
 
 ---
